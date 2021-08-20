@@ -1,0 +1,19 @@
+{
+  "name": "@ignashkins/packages_hmm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignashkins/packages_hmm.git"
+  },
+  "author": "Dmitriy Ignashkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignashkins/packages_hmm/issues"
+  },
+  "homepage": "https://github.com/ignashkins/packages_hmm#readme"
+}
