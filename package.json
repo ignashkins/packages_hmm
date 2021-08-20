@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ignashkins/packages_hmm/issues"
   },
-  "homepage": "https://github.com/ignashkins/packages_hmm#readme"
+  "homepage": "https://github.com/ignashkins/packages_hmm#readme",
+
+  "publishConfig": {
+    "@ignashkins:registry": "https://npm.pkg.github.com"
+  }
 }
